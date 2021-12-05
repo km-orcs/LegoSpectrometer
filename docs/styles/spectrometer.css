@@ -1,5 +1,5 @@
 .logpage {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Shadows Into Light Two';
 	font-size: 100%;
    	background-color: #FFE4E1;
    	color: #000000;
@@ -81,7 +81,7 @@
 	height: auto;
 }
 .logpage button {
-	background-color: #4CAF50; /* Green */
+	background-color: #DB7093; /* Pale violet red */
 	border: none;
 	color: white;
 	margin-top: 10px;
